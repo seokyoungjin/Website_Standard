@@ -299,10 +299,10 @@
     background-color: #2B387C;
  }
  .imgText_img.img1 {
-     background: url(/img/imgText_bg01.jpg) no-repeat center /cover;
+     background: url(../img/imgText_bg01.jpg) no-repeat center /cover;
  }
  .imgText_img.img2 {
-     background: url(/img/imgText_bg02.jpg) no-repeat center /cover;
+     background: url(../img/imgText_bg02.jpg) no-repeat center /cover;
  }
 
  /* cardType */
